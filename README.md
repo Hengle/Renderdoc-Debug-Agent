@@ -1,6 +1,8 @@
 ﻿# RenderDoc Debug Agent
 
-本库过时，请看新库："https://github.com/haolange/RDC-Agent-Tools/tree/main"和"https://github.com/haolange/RDC-Agent-Frameworks/tree/main"；
+本库过时，请看新库：
+1. tools："https://github.com/haolange/RDC-Agent-Tools/tree/main"；
+2. frameworks："https://github.com/haolange/RDC-Agent-Frameworks/tree/main"；
 
 本项目提供一个本地 RenderDoc MCP Agent + 云端 Orchestrator + 前端面板的最小闭环，让你可以用自然语言驱动 GPU 调试，并把结果以可读的方式展示出来。
 
